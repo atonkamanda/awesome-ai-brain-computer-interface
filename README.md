@@ -1,7 +1,7 @@
 # AI for Brain-Computer interface
 
 
-![](https://img.shields.io/github/last-commit/atonkamanda/ai?color=green) ![](https://img.shields.io/badge/PaperNumber-45-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/atonkamanda/awesome-ai-brain-computer-interface?color=green) ![](https://img.shields.io/badge/PaperNumber-45-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 A curated list of resources dedicated to AI (ML/DL/RL) applied to brain-computer interfaces.
 
@@ -37,15 +37,15 @@ I spend a lot of time reading all the articles to make sure the tags match what 
 
 ### Keywords Convention
 
-![](https://img.shields.io/badge/BCI-brightgreen) The "invasivness" of the BCI used.
+![](https://img.shields.io/badge/BCI-brightgreen) 		   The "invasivness" of the BCI used.
 
-![](https://img.shields.io/badge/Device-darkviolet) The precise device used in the paper.
+![](https://img.shields.io/badge/Device-darkviolet)	    The precise device used in the paper.
 
-![](https://img.shields.io/badge/Experiment-orange) The type of model used for the experiment. (Human/Animal/Simulation)
+![](https://img.shields.io/badge/Experiment-orange)  The type of model used for the experiment (Human/Animal/Simulation).
 
- ![](https://img.shields.io/badge/Interface-red)The type of interaction between the brain and the machine. (Recording/Stimulation/Bidirectional)
+ ![](https://img.shields.io/badge/Interface-red)    The type of interaction between the brain and the machine (Recording/Stimulation/Bidirectional).
 
- ![](https://img.shields.io/badge/Conceptual-teal) If the paper develop concepts without any particular experimentation.
+ ![](https://img.shields.io/badge/Conceptual-teal)  If the paper develop concepts without any particular experimentation.
 
 ### Overviews
 This section contains the papers that overview the general trends in AI for brain-computer interface.
