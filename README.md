@@ -50,7 +50,7 @@ I spend a lot of time reading all the articles to make sure the tags match what 
 ### Overviews
 This section contains the papers that overview the general trends in AI for brain-computer interface.
 
-1. **Brain Co-Processors: Using AI to Restore and Augment Brain Function** . *2020* ![](https://img.shields.io/badge/Conceptual-teal)
+1. **Brain Co-Processors: Using AI to Restore and Augment Brain Function.** 2020 ![](https://img.shields.io/badge/Conceptual-teal)
 
    *Rajesh P. N. Rao* [[pdf](https://arxiv.org/abs/2012.03378)] 
 
@@ -58,7 +58,7 @@ This section contains the papers that overview the general trends in AI for brai
 
    *Saurabh Vyas,Matthew D. Golub,David Sussillo,and Krishna V. Shenoy* [[pdf](https://web.stanford.edu/~mgolub/publications/2020-Vyas-ARN.pdf)]
 
-3. **Efficient characterization of electrically evoked responses for neural interfaces.** 2019 ![](https://img.shields.io/badge/Animal-orange)![](https://img.shields.io/badge/Bidirectional-red)
+3. **Efficient characterization of electrically evoked responses for neural interfaces.** 2019 ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red)
 
    *Nishal Shah, Sasidhar Madugula, Pawel Hottowy, Alexander Sher, Alan Litke, Liam Paninski, E.J. Chichilnisky*  [[pdf](https://proceedings.neurips.cc/paper/2019/hash/65184321c340b4d56581ee59b58d9d56-Abstract.html)]
 
@@ -82,7 +82,7 @@ This section contains the pilot works of AI for brain computer interfaces.
 
    *Manoel Tenorio*.  [[pdf](https://proceedings.neurips.cc/paper/1987/hash/c20ad4d76fe97759aa27a0c99bff6710-Abstract.html)]
 
-2.  **A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network ** 1995.  ![](https://img.shields.io/badge/Invasive-brightgreen) ![](https://img.shields.io/badge/Cochlear_Implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Stimulation-red)
+2.  **A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network** 1995.  ![](https://img.shields.io/badge/Invasive-brightgreen) ![](https://img.shields.io/badge/Cochlear_Implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Stimulation-red)
    *Marwan Jabri, Raymond Wang* [[pdf](https://papers.nips.cc/paper/1995/hash/16e6a3326dd7d868cbc926602a61e4d0-Abstract.html)]
 
 
@@ -98,25 +98,22 @@ This section contains the pilot works of AI for brain computer interfaces.
 
    *Pradeep Shenoy, Rajesh PN Rao*.  [[pdf](https://papers.nips.cc/paper/2004/hash/daaaf13651380465fc284db6940d8478-Abstract.html)]
 
-6. **A recurrent neural network for closed-loop intracortical brain-machine interface decoders** 2012. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *David Sussillo,Paul Nuyujukian,Joline M Fan, Jonathan C Kao,
-   Sergey D Stavisky, Stephen Ryu, and Krishna Shenoy*.  [[pdf](https://iopscience.iop.org/article/10.1088/1741-2560/9/2/026027)]
+6. **A recurrent neural network for closed-loop intracortical brain-machine interface decoders** 2012. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *David Sussillo,Paul Nuyujukian,Joline M Fan, Jonathan C Kao, Sergey D Stavisky, Stephen Ryu, and Krishna Shenoy*.  [[pdf](https://iopscience.iop.org/article/10.1088/1741-2560/9/2/026027)]
 
 7. **Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach** 2006. ![](https://img.shields.io/badge/Non_invasive-g) ![](https://img.shields.io/badge/EEG-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red) 
 
    *Matthias Krauledat, Michael Schröder, Benjamin Blankertz, Klaus-Robert Müller* [[pdf](https://papers.nips.cc/paper/2006/hash/275d7fb2fd45098ad5c3ece2ed4a2824-Abstract.html)]
 
- 8.  **Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning** 2008. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/EEG & Deep brain stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
-
-   	*Arthur Guez, Massimo Avoli, Joelle Pineau*.  [[pdf](https://www.cs.mcgill.ca/~jpineau/files/guez-iaai08.pdf)]
-
-
-9. **Kernel-ARMA for Hand Tracking and Brain-Machine interfacing During 3D Motor Control** 2008. ![](https://img.shields.io/badge/Probing-brown) ![](https://img.shields.io/badge/Utah array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
-
-    *Lavi Shpigelman, Hagai Lalazar, Eilon Vaadia*.  [[pdf](https://papers.nips.cc/paper/2008/hash/61b4a64be663682e8cb037d9719ad8cd-Abstract.html)]    
+ 8.  **Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning** 2008. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/EEG_&_Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+ *Arthur Guez, Massimo Avoli, Joelle Pineau*.  [[pdf](https://www.cs.mcgill.ca/~jpineau/files/guez-iaai08.pdf)]
 
 
+9. **Kernel-ARMA for Hand Tracking and Brain-Machine interfacing During 3D Motor Control** 2008. ![](https://img.shields.io/badge/Probing-brown) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
 
-10. **A general framework for investigating how far the decoding process in the brain can be simplified** 2008. ![](https://img.shields.io/badge/Probing-brown) ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah array-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Recording-red) 
+   *Lavi Shpigelman, Hagai Lalazar, Eilon Vaadia*.  [[pdf](https://papers.nips.cc/paper/2008/hash/61b4a64be663682e8cb037d9719ad8cd-Abstract.html)]    
+    
+
+10. **A general framework for investigating how far the decoding process in the brain can be simplified** 2008. ![](https://img.shields.io/badge/Probing-brown) ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Recording-red) 
 
     *Masafumi Oizumi, Toshiyuki Ishii, Kazuya Ishibashi, Toshihiko Hosoya, Masato Okada*.  [[pdf](https://proceedings.neurips.cc/paper/2008/hash/8dd48d6a2e2cad213179a3992c0be53c-Abstract.html)]
 
@@ -125,17 +122,16 @@ This section contains the pilot works of AI for brain computer interfaces.
 
     *Jack DiGiovanna, Babak Mahmoudi, Jose Fortes, Jose C. Principe,Justin C. Sanchez*.  [[pdf](https://ieeexplore.ieee.org/document/4540104)]
     
-    ​    
-
+ 
 12. **Optimization of Electrical Stimulation for a High-Fidelity Artificial Retina** 2017. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
 
     *Nishal P. Shah, Babak Mahmoudi, Jose Fortes, Jose C. Principe,E.J. Chichilnisky*.  [[pdf](https://ieeexplore.ieee.org/document/8716987/authors#authors)]
 
-13. **Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces** 2017. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah array-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red) 
+13. **Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces** 2017. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red) 
 
     *Daniel Milstein, Jason Pacheco, Leigh Hochberg, John D. Simeral, Beata Jarosiewicz, Erik Sudderth*.  [[pdf](https://papers.nips.cc/paper/2017/hash/99c5e07b4d5de9d18c350cdf64c5aa3d-Abstract.html)]
 
-14. **Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces** 2018. ![](https://img.shields.io/badge/Non Invasive-g)  ![](https://img.shields.io/badge/P300_speller-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red) 
+14. **Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces** 2018. ![](https://img.shields.io/badge/Non_Invasive-g)  ![](https://img.shields.io/badge/P300_speller-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red) 
 
     *Boyla Mainsah, Dmitry Kalika, Leslie Collins, Siyuan Liu, Chandra Throckmorton*.  [[pdf](https://proceedings.neurips.cc/paper/2018/hash/a3eb043e7bf775de87763e9f8121c953-Abstract.html)]
 
@@ -143,32 +139,30 @@ This section contains the pilot works of AI for brain computer interfaces.
 
     *Qitong Gao,..., Miroslav Pajic*.  [[pdf](https://ieeexplore.ieee.org/document/9096004)]
 
-16. **Adversarial Domain Adaptation for Stable Brain-Machine Interfaces** 2019. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
+16. **Adversarial Domain Adaptation for Stable Brain-Machine Interfaces** 2019. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
 
     *Ali Farshchian, Juan A. Gallego, Lee E. Miller,Sara A. Sollag,Joseph P. Cohen, Yoshua Bengio*.  [[pdf](https://arxiv.org/abs/1810.00045)]
 
-17. **Reinforcement Learning Framework for Deep Brain Stimulation Study** 2019. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+17. **Reinforcement Learning Framework for Deep Brain Stimulation Study** 2019. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
     *Dmitrii Krylov, Remi Tachet, Romain Laroche, Michael Rosenblum, Dmitry V. Dylov*.  [[pdf](https://arxiv.org/abs/2002.10948)]
 
-18. **Hierarchical Bayesian Optimization of Spatiotemporal Neurostimulations for Targeted Motor Outputs** 2020. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+18. **Hierarchical Bayesian Optimization of Spatiotemporal Neurostimulations for Targeted Motor Outputs** 2020. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
     *Samuel Laferriere, Marco Bonizzato, Sandrine L Cote, Numa Dancause, Guillaume Lajoie*.  [[pdf](https://ieeexplore.ieee.org/document/9062604)]
 
- 19.   **Neurolight: A Deep Learning Neural Interface for Cortical Visual Prostheses** 2020. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Human_and_simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+ 19.   **Neurolight: A Deep Learning Neural Interface for Cortical Visual Prostheses** 2020. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Human_and_simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
-    *Antonio Lozano, Juan Sebastián Suárez, Cristina Soto-Sánchez, Javier Garrigós, J. Javier Martínez-Alvarez, J. Manuel Ferrández and Eduardo Fernández*.  [[pdf](https://www.researchgate.net/publication/341315898_Neurolight_A_Deep_Learning_Neural_Interface_for_Cortical_Visual_Prostheses)]
+          *Antonio Lozano,.., Eduardo Fernandez* . [[pdf](https://www.researchgate.net/publication/341315898_Neurolight_A_Deep_Learning_Neural_Interface_for_Cortical_Visual_Prostheses)]
 
 
-​    
-
-20. **Stabilizing brain-computer interfaces through alignment of latent dynamics** 2022. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+20. **Stabilizing brain-computer interfaces through alignment of latent dynamics** 2022. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
     *Brianna M. Karpowicz,Yahia H. Ali, Lahiru N. Wimalasena, Andrew R. Sedler, Mohammad Reza Keshtkaran, Kevin Bodkin, Xuan Ma,  Lee E. Miller,  Chethan Pandarinath*.  [[pdf](https://www.biorxiv.org/content/10.1101/2022.04.06.487388v1)]
 
     
 
-21. **A Hybrid Neural Autoencoder for Sensory Neuroprostheses and Its Applications in Bionic Vision** 2022.   ![](https://img.shields.io/badge/Invasive-brightgreen) ![](https://img.shields.io/badge/Visual prosthese-darkviolet) ![](https://img.shields.io/badge/Artificial_neural_network-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
+21. **A Hybrid Neural Autoencoder for Sensory Neuroprostheses and Its Applications in Bionic Vision** 2022.   ![](https://img.shields.io/badge/Invasive-brightgreen) ![](https://img.shields.io/badge/Visual_prosthesis-darkviolet) ![](https://img.shields.io/badge/Artificial_neural_network-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) 
 
     *Jacob Granley, Lucas Relic, Michael Beyeler*[[pdf](https://arxiv.org/abs/2205.13623)]
 
@@ -180,13 +174,13 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
 
 1. **LFADS - Latent Factor Analysis via Dynamical Systems** 2016. 
-2. *David Sussillo, Rafal Jozefowicz, L. F. Abbott, Chethan Pandarinath*  [[pdf](https://arxiv.org/abs/1608.06315)]
+ *David Sussillo, Rafal Jozefowicz, L. F. Abbott, Chethan Pandarinath*  [[pdf](https://arxiv.org/abs/1608.06315)]
 3. **Correlation-based model of artificially induced plasticity in motor cortex by a Bidirectional brain-computer interface** 2017 ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red) *Guillaume Lajoie ,Nedialko I. Krouchev,John F. Kalaska,Adrienne L. Fairhall,Eberhard E. Fetz*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
 
 
-3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018   ![](https://img.shields.io/badge/Animal-orange)*Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
-4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017   ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)*Gamaleldin F Elsayed , John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
-5. **An integrated brain-machine interface platform with thousands of channels (Neuralink device launch paper** 2019. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Neuralink-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red)*Elon Musk,Neuralink* [[pdf](https://www.jmir.org/2019/10/e16194/)]
+3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018  ![](https://img.shields.io/badge/Animal-orange)*Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
+4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017   ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Gamaleldin F Elsayed , John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
+5. **An integrated brain-machine interface platform with thousands of channels (Neuralink device launch paper)** 2019. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Neuralink-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectionnal-red)*Elon Musk,Neuralink* [[pdf](https://www.jmir.org/2019/10/e16194/)]
 
 
 6. **From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction** 2019  ![](https://img.shields.io/badge/Human/Animal/Simulation-orange)  *Hidenori Tanaka, Aran Nayebi, Niru Maheswaranathan, Lane McIntosh, Stephen Baccus, Surya Ganguli* [[pdf](https://proceedings.neurips.cc/paper/2019/hash/eeaebbffb5d29ff62799637fc51adb7b-Abstract.html)]
@@ -208,7 +202,7 @@ This section contains neuroscience/BCI related subject that don't directly refer
 12. **Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity** 2021. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Ran Liu,Mehdi Azabou, Max Dabagia, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith B. Hengen, Michal Valko, Eva L. Dyer* [[pdf](https://arxiv.org/abs/2111.023386)]
 
 
-12. **Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces** 2021. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep brain stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectionnal-red)   *Chethan Pandarinath, K. Cora Ames, Abigail A. Russo, Ali Farshchian, Lee E. Miller, Eva L. Dyer and Jonathan C. Kao* [[pdf](https://www.jneurosci.org/content/38/44/9390)]
+12. **Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces** 2021. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red)   *Chethan Pandarinath, K. Cora Ames, Abigail A. Russo, Ali Farshchian, Lee E. Miller, Eva L. Dyer and Jonathan C. Kao* [[pdf](https://www.jneurosci.org/content/38/44/9390)]
 
     
 
