@@ -118,11 +118,12 @@ This section contains the pilot works of AI for brain computer interfaces.
     *Masafumi Oizumi, Toshiyuki Ishii, Kazuya Ishibashi, Toshihiko Hosoya, Masato Okada*.  [[pdf](https://proceedings.neurips.cc/paper/2008/hash/8dd48d6a2e2cad213179a3992c0be53c-Abstract.html)]
 
 
-11. **Coadaptive Brain–Machine Interface via Reinforcement Learning** 2009. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
-
-    *Jack DiGiovanna, Babak Mahmoudi, Jose Fortes, Jose C. Principe,Justin C. Sanchez*.  [[pdf](https://ieeexplore.ieee.org/document/4540104)]
     
- 
+ 11. **Coadaptive Brain–Machine Interface via Reinforcement Learning** 2009. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
+    
+   *Jack DiGiovanna, Babak Mahmoudi, Jose C. Principe,Justin C. Sanchez*. 
+  [[pdf](https://ieeexplore.ieee.org/document/4540104)]
+    
 12. **Optimization of Electrical Stimulation for a High-Fidelity Artificial Retina** 2017. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
     *Nishal P. Shah, Babak Mahmoudi, Jose Fortes, Jose C. Principe,E.J. Chichilnisky*.  [[pdf](https://ieeexplore.ieee.org/document/8716987/authors#authors)]
@@ -166,20 +167,33 @@ This section contains the pilot works of AI for brain computer interfaces.
 
     *Jacob Granley, Lucas Relic, Michael Beyeler*[[pdf](https://arxiv.org/abs/2205.13623)]
 
+22. **Adapting Brain-Like Neural Networks for Modeling Cortical Visual Prostheses** 2022.   ![](https://img.shields.io/badge/Invasive-brightgreen) ![](https://img.shields.io/badge/Visual_prosthesis-darkviolet) ![](https://img.shields.io/badge/Artificial_neural_network-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
+    *Jacob Granley, Alexander Riedel, Michael Beyeler*[[pdf](https://arxiv.org/abs/2209.13561)]
 
 ### Related
 
 This section contains neuroscience/BCI related subject that don't directly refere to AI for BCI but are relevant to the subject (e.g deconding latent variable, or using dynamical systems framework)
 
 
+1. **Restoring Natural Sensory Feedback in Real-Time Bidirectional Hand Prostheses** 2014. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Hand_prosthesis-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red)
+ *Stanisa Raspopovic,..., Silvestro Micera*  [[pdf](https://www.science.org/doi/10.1126/scitranslmed.3006820)]
+ 
 1. **LFADS - Latent Factor Analysis via Dynamical Systems** 2016. 
  *David Sussillo, Rafal Jozefowicz, L. F. Abbott, Chethan Pandarinath*  [[pdf](https://arxiv.org/abs/1608.06315)]
+ 
+ 
+2. **Using goal-driven deep learning models to understand sensory cortex** 2016. ![](https://img.shields.io/badge/Conceptual-teal) 
+
+    *Daniel L K Yamins & James J DiCarlo*.  [[pdf](https://www.nature.com/articles/nn.4244)]
+    
 3. **Correlation-based model of artificially induced plasticity in motor cortex by a Bidirectional brain-computer interface** 2017 ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red) *Guillaume Lajoie ,Nedialko I. Krouchev,John F. Kalaska,Adrienne L. Fairhall,Eberhard E. Fetz*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
 
 
 3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018  ![](https://img.shields.io/badge/Animal-orange)*Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
+
 4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017   ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Gamaleldin F Elsayed , John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
+
 5. **An integrated brain-machine interface platform with thousands of channels (Neuralink device launch paper)** 2019. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Neuralink-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red)*Elon Musk,Neuralink* [[pdf](https://www.jmir.org/2019/10/e16194/)]
 
 
@@ -187,11 +201,15 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
 7. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2019. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)*Gamaleldin F Elsayed & John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
 
-8. **A deep learning framework for neuroscience** 2019. 
+8. **A deep learning framework for neuroscience** 2019. ![](https://img.shields.io/badge/Conceptual-teal)
 
    *Blake .A Richards & Konrad P. Kording* [[pdf](https://www.nature.com/articles/s41593-019-0520-2)]
+   
+8. **Neural population control via deep image synthesis** 2019. ![](https://img.shields.io/badge/Non_invasive-brightgreen)
 
-9. **Generative Models of Brain Dynamics -- A review** 2021 *Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, Vikram Voleti, Irina Rish, Guillaume Dumas* [[pdf](https://arxiv.org/abs/2112.12147)]
+   *Pouya Bashivan, Kohitij Kar, James J Dicarlo* [[pdf](https://www.science.org/doi/10.1126/science.aav9436)]
+
+9. **Generative Models of Brain Dynamics -- A review** 2021 ![](https://img.shields.io/badge/Conceptual-teal) *Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, Vikram Voleti, Irina Rish, Guillaume Dumas* [[pdf](https://arxiv.org/abs/2112.12147)]
 
 10. **A brain-computer interface that evokes tactile sensations improves robotic arm control** 2021 
 
@@ -211,11 +229,11 @@ This section contains neuroscience/BCI related subject that don't directly refer
     
 
 
-14. **Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations** 2022.  *Max Dabagia, Konrad P Kording, Eva L Dyer* [[pdf](https://arxiv.org/abs/2205.08413)]
+14. **Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations** 2022. ![](https://img.shields.io/badge/Conceptual-teal) *Max Dabagia, Konrad P Kording, Eva L Dyer* [[pdf](https://arxiv.org/abs/2205.08413)]
 
     
 
-15. **The application of artificial intelligence to biology and neuroscience** 2022. 
+15. **The application of artificial intelligence to biology and neuroscience** 2022. ![](https://img.shields.io/badge/Conceptual-teal)
 
     *Blake Richards, Doris Tsao, Anthony Zador* [[pdf](https://www.sciencedirect.com/science/article/pii/S0092867422007991)] 
 
