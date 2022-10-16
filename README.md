@@ -176,29 +176,43 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
 
 1. **Restoring Natural Sensory Feedback in Real-Time Bidirectional Hand Prostheses** 2014. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Hand_prosthesis-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red)
- *Stanisa Raspopovic,..., Silvestro Micera*  [[pdf](https://www.science.org/doi/10.1126/scitranslmed.3006820)]
+      
+      *Stanisa Raspopovic,..., Silvestro Micera*  [[pdf](https://www.science.org/doi/10.1126/scitranslmed.3006820)]
  
 1. **LFADS - Latent Factor Analysis via Dynamical Systems** 2016. 
- *David Sussillo, Rafal Jozefowicz, L. F. Abbott, Chethan Pandarinath*  [[pdf](https://arxiv.org/abs/1608.06315)]
+
+      *David Sussillo, Rafal Jozefowicz, L. F. Abbott, Chethan Pandarinath*  [[pdf](https://arxiv.org/abs/1608.06315)]
  
  
 2. **Using goal-driven deep learning models to understand sensory cortex** 2016. ![](https://img.shields.io/badge/Conceptual-teal) 
 
     *Daniel L K Yamins & James J DiCarlo*.  [[pdf](https://www.nature.com/articles/nn.4244)]
     
-3. **Correlation-based model of artificially induced plasticity in motor cortex by a Bidirectional brain-computer interface** 2017 ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red) *Guillaume Lajoie ,Nedialko I. Krouchev,John F. Kalaska,Adrienne L. Fairhall,Eberhard E. Fetz*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
+3. **Correlation-based model of artificially induced plasticity in motor cortex by a Bidirectional brain-computer interface** 2017 ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
+
+    *Guillaume Lajoie ,Nedialko I. Krouchev,John F. Kalaska,Adrienne L. Fairhall,Eberhard E. Fetz*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
 
 
-3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018  ![](https://img.shields.io/badge/Animal-orange)*Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
+3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018  ![](https://img.shields.io/badge/Animal-orange)
 
-4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017   ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Gamaleldin F Elsayed , John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
+    *Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
 
-5. **An integrated brain-machine interface platform with thousands of channels (Neuralink device launch paper)** 2019. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Neuralink-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red)*Elon Musk,Neuralink* [[pdf](https://www.jmir.org/2019/10/e16194/)]
+4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017  ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) 
+    
+    *Gamaleldin F Elsayed , John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
+
+5. **An integrated brain-machine interface platform with thousands of channels (Neuralink device launch paper)** 2019. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Neuralink-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red)
+
+    *Elon Musk,Neuralink* [[pdf](https://www.jmir.org/2019/10/e16194/)]
 
 
-6. **From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction** 2019  ![](https://img.shields.io/badge/Human/Animal/Simulation-orange)  *Hidenori Tanaka, Aran Nayebi, Niru Maheswaranathan, Lane McIntosh, Stephen Baccus, Surya Ganguli* [[pdf](https://proceedings.neurips.cc/paper/2019/hash/eeaebbffb5d29ff62799637fc51adb7b-Abstract.html)]
+6. **From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction** 2019  ![](https://img.shields.io/badge/Human/Animal/Simulation-orange)  
 
-7. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2019. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)*Gamaleldin F Elsayed & John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
+    *Hidenori Tanaka, Aran Nayebi, Niru Maheswaranathan, Lane McIntosh, Stephen Baccus, Surya Ganguli* [[pdf](https://proceedings.neurips.cc/paper/2019/hash/eeaebbffb5d29ff62799637fc51adb7b-Abstract.html)]
+
+7. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2019. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Gamaleldin F Elsayed & John P Cunningham* [[pdf](https://www.nature.com/articles/nn.4617)]
 
 8. **A deep learning framework for neuroscience** 2019. ![](https://img.shields.io/badge/Conceptual-teal)
 
@@ -208,27 +222,44 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
    *Pouya Bashivan, Kohitij Kar, James J Dicarlo* [[pdf](https://www.science.org/doi/10.1126/science.aav9436)]
 
-9. **Generative Models of Brain Dynamics -- A review** 2021 ![](https://img.shields.io/badge/Conceptual-teal) *Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, Vikram Voleti, Irina Rish, Guillaume Dumas* [[pdf](https://arxiv.org/abs/2112.12147)]
+9. **Generative Models of Brain Dynamics -- A review** 2021 ![](https://img.shields.io/badge/Conceptual-teal) 
+      
+      *Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, Vikram Voleti, Irina Rish, Guillaume Dumas* 
+      [[pdf](https://arxiv.org/abs/2112.12147)]
 
 10. **A brain-computer interface that evokes tactile sensations improves robotic arm control** 2021 
 
-    ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Prototype_implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red) *Sharlene N. Flesher,..,Robert A. Gaunt* [[pdf](https://www.science.org/doi/10.1126/science.abd0380)]
+    ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Prototype_implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
+    
+      *Sharlene N. Flesher,..,Robert A. Gaunt* [[pdf](https://www.science.org/doi/10.1126/science.abd0380)]
 
-11. **Mine Your Own vieW: Self-Supervised Learning Through Across-Sample Prediction** 2021. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Mehdi Azabou,Eva L. Dyer* [[pdf](https://arxiv.org/abs/2102.10106)]
+11. **Mine Your Own vieW: Self-Supervised Learning Through Across-Sample Prediction** 2021. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) 
 
-12. **Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity** 2021. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) *Ran Liu,Mehdi Azabou, Max Dabagia, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith B. Hengen, Michal Valko, Eva L. Dyer* [[pdf](https://arxiv.org/abs/2111.023386)]
+    *Mehdi Azabou,Eva L. Dyer* [[pdf](https://arxiv.org/abs/2102.10106)]
+
+12. **Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity** 2021. ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) 
+
+    *Ran Liu,Mehdi Azabou, Max Dabagia, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith B. Hengen, Michal Valko, Eva L. Dyer* 
+    [[pdf](https://arxiv.org/abs/2111.023386)]
 
 
-12. **Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces** 2021. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red)   *Chethan Pandarinath, K. Cora Ames, Abigail A. Russo, Ali Farshchian, Lee E. Miller, Eva L. Dyer and Jonathan C. Kao* [[pdf](https://www.jneurosci.org/content/38/44/9390)]
+12. **Latent Factors and Dynamics in Motor Cortex and Their Application to Brain–Machine Interfaces** 2021. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Deep_brain_stimulation-darkviolet) ![](https://img.shields.io/badge/Simulation-orange) ![](https://img.shields.io/badge/Bidirectional-red)   
+
+    *Chethan Pandarinath, K. Cora Ames, Abigail A. Russo, Ali Farshchian, Lee E. Miller, Eva L. Dyer and Jonathan C. Kao*
+      [[pdf](https://www.jneurosci.org/content/38/44/9390)]
 
     
 
-13. **Neural Latents Benchmark '21: Evaluating latent variable models of neural population activity** 2021. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Animal-orange)![](https://img.shields.io/badge/Recording-red) *Felix Pei,..,Chethan Pandarinath* [[pdf](https://arxiv.org/abs/2109.04463)]
+13. **Neural Latents Benchmark '21: Evaluating latent variable models of neural population activity** 2021. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Animal-orange)![](https://img.shields.io/badge/Recording-red) 
+
+    *Felix Pei,..,Chethan Pandarinath* [[pdf](https://arxiv.org/abs/2109.04463)]
 
     
 
 
-14. **Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations** 2022. ![](https://img.shields.io/badge/Conceptual-teal) *Max Dabagia, Konrad P Kording, Eva L Dyer* [[pdf](https://arxiv.org/abs/2205.08413)]
+14. **Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations** 2022. ![](https://img.shields.io/badge/Conceptual-teal) 
+
+      *Max Dabagia, Konrad P Kording, Eva L Dyer* [[pdf](https://arxiv.org/abs/2205.08413)]
 
     
 
