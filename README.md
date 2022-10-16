@@ -172,7 +172,7 @@ This section contains the pilot works of AI for brain computer interfaces.
 
 ### Related
 
-This section contains neuroscience/BCI related subject that don't directly refere to AI for BCI but are relevant to the subject (e.g deconding latent variable, or using dynamical systems framework)
+This section contains neuroscience/BCI related subject that don't directly refere to AI for BCI but are relevant to the subject (e.g decoding latent variable, using dynamical systems framework,bioengineering,....)
 
 
 1. **Restoring Natural Sensory Feedback in Real-Time Bidirectional Hand Prostheses** 2014. ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Hand_prosthesis-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red)
