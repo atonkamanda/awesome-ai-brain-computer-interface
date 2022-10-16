@@ -195,7 +195,7 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
 3. **Inferring single-trial neural population dynamics using sequential auto-encoders** 2018  ![](https://img.shields.io/badge/Animal-orange)
 
-    *Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005343)]
+    *Chethan Pandarinath ,...,David Sussillo*  [[pdf](https://www.nature.com/articles/s41592-018-0109-9)]
 
 4. **Structure in neural population recordings: an expected byproduct of simpler phenomena?** 2017  ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red) 
     
