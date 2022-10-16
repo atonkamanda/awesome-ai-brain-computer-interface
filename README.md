@@ -227,9 +227,7 @@ This section contains neuroscience/BCI related subject that don't directly refer
       *Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, Vikram Voleti, Irina Rish, Guillaume Dumas* 
       [[pdf](https://arxiv.org/abs/2112.12147)]
 
-10. **A brain-computer interface that evokes tactile sensations improves robotic arm control** 2021 
-
-    ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Prototype_implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
+10. **A brain-computer interface that evokes tactile sensations improves robotic arm control** 2021 ![](https://img.shields.io/badge/Invasive-g)![](https://img.shields.io/badge/Prototype_implant-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
     
       *Sharlene N. Flesher,..,Robert A. Gaunt* [[pdf](https://www.science.org/doi/10.1126/science.abd0380)]
 
