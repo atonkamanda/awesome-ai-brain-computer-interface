@@ -1,7 +1,7 @@
 # AI for Brain-Computer interface
 
 
-![](https://img.shields.io/github/last-commit/atonkamanda/awesome-ai-brain-computer-interface?color=green) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/atonkamanda/awesome-ai-brain-computer-interface?color=green) ![](https://img.shields.io/badge/PaperNumber-47-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 A curated list of resources dedicated to AI (ML/DL/RL) applied to brain-computer interfaces.
 
@@ -121,8 +121,7 @@ This section contains the pilot works of AI for brain computer interfaces.
     
  11. **Coadaptive Brain–Machine Interface via Reinforcement Learning** 2009. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
     
-   *Jack DiGiovanna, Babak Mahmoudi, Jose C. Principe,Justin C. Sanchez*. 
-  [[pdf](https://ieeexplore.ieee.org/document/4540104)]
+      *Jack DiGiovanna, Babak Mahmoudi, Jose C. Principe,Justin C. Sanchez*. [[pdf](https://ieeexplore.ieee.org/document/4540104)]
     
 12. **Optimization of Electrical Stimulation for a High-Fidelity Artificial Retina** 2017. ![](https://img.shields.io/badge/Invasive-g)  ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red) 
 
