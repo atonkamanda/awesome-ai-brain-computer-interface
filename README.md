@@ -56,7 +56,7 @@ This section contains the papers that overview the general trends in AI for brai
 
 2. **Computation Through Neural Population Dynamics.** 2020 ![](https://img.shields.io/badge/Conceptual-teal)
 
-   *Saurabh Vyas,Matthew D. Golub,David Sussillo,and Krishna V. Shenoy* [[pdf](https://web.stanford.edu/~mgolub/publications/2020-Vyas-ARN.pdf)]
+   *Saurabh Vyas,Matthew D. Golub,David Sussillo,and Krishna V. Shenoy* [[pdf](https://homes.cs.washington.edu/~mgolub/publications/2020-Vyas-ARN.pdf)]
 
 3. **Efficient characterization of electrically evoked responses for neural interfaces.** 2019 ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Bidirectional-red)
 
