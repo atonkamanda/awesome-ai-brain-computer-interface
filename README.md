@@ -1,7 +1,7 @@
 # AI for Brain-Computer interface
 
 
-![](https://img.shields.io/github/last-commit/atonkamanda/awesome-ai-brain-computer-interface?color=green) ![](https://img.shields.io/badge/PaperNumber-47-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/atonkamanda/awesome-ai-brain-computer-interface?color=green) ![](https://img.shields.io/badge/PaperNumber-54-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 A curated list of resources dedicated to AI (ML/DL/RL) applied to brain-computer interfaces.
 
