@@ -181,6 +181,20 @@ This section contains the pilot works of AI for brain computer interfaces.
 21. **Balancing memorization and generalization in RNNs for high performance brain-machine Interfaces** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
 
     *Joseph Costello, Hisham Temmar, Luis Cubillos, Matthew Mender, Dylan Wallace, Matt Willsey, Parag Patil, Cynthia Chestek* [[pdf](https://papers.nips.cc/paper_files/paper/2023/hash/17a234c91f746d9625a75cf8a8731ee2-Abstract-Conference.html)]
+
+
+22. **PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/SEEG-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Zhizhang Yuan, Daoze Zhang, Yang Yang, Junru Chen, Yafeng Li* [[pdf](https://papers.nips.cc/paper_files/paper/2023/hash/dbeb7e621d4a554069a6a775da0f7273-Abstract-Conference.html)]
+
+23. **Human-in-the-Loop Optimization for Deep Stimulus Encoding in Visual Prostheses** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Visual_prosthesis-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Bidirectional-red)
+
+    *Jacob Granley, Tristan Fauvel, Matthew Chalk, Michael Beyeler* [[pdf](https://papers.nips.cc/paper_files/paper/2023/hash/fb06bc3abcece7b8725a8b83b8fa3632-Abstract-Conference.html)]
+
+24. **Brain decoding: toward real-time reconstruction of visual perception** 2023. ![](https://img.shields.io/badge/Non_invasive-g) ![](https://img.shields.io/badge/MEG-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Yohann Benchetrit, Hubert Banville, Jean-Rémi King* [[pdf](https://arxiv.org/abs/2310.19812)]
+    
 ### Related
 
 This section contains neuroscience/BCI related subject that don't directly refere to AI for BCI but are relevant to the subject (e.g decoding latent variable, using dynamical systems framework,bioengineering,....)
