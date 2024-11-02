@@ -170,6 +170,17 @@ This section contains the pilot works of AI for brain computer interfaces.
 
     *Jacob Granley, Alexander Riedel, Michael Beyeler*[[pdf](https://arxiv.org/abs/2209.13561)]
 
+19. **Mind Reader: Reconstructing complex images from brain activities** 2022. ![](https://img.shields.io/badge/Non_Invasive-g) ![](https://img.shields.io/badge/fMRI-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Sikun Lin, Thomas Sprague, Ambuj K Singh* [[pdf](https://papers.nips.cc/paper_files/paper/2022/hash/bee5125b773414d3d6eeb4334fbc5453-Abstract-Conference.html)]
+
+20. **Plug-and-Play Stability for Intracortical Brain-Computer Interfaces: A One-Year Demonstration of Seamless Brain-to-Text Communication** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Human-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Chaofei Fan, Nick Hahn, Foram Kamdar, Donald Avansino, Guy Wilson, Leigh Hochberg, Krishna V Shenoy, Jaimie Henderson, Francis Willett* [[pdf](https://papers.nips.cc/paper_files/paper/2023/hash/83a14a36de4502bac5b580db36e81858-Abstract-Conference.html)]
+
+21. **Balancing memorization and generalization in RNNs for high performance brain-machine Interfaces** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
+
+    *Joseph Costello, Hisham Temmar, Luis Cubillos, Matthew Mender, Dylan Wallace, Matt Willsey, Parag Patil, Cynthia Chestek* [[pdf](https://papers.nips.cc/paper_files/paper/2023/hash/17a234c91f746d9625a75cf8a8731ee2-Abstract-Conference.html)]
 ### Related
 
 This section contains neuroscience/BCI related subject that don't directly refere to AI for BCI but are relevant to the subject (e.g decoding latent variable, using dynamical systems framework,bioengineering,....)
@@ -265,7 +276,9 @@ This section contains neuroscience/BCI related subject that don't directly refer
 
     *Blake Richards, Doris Tsao, Anthony Zador* [[pdf](https://www.sciencedirect.com/science/article/pii/S0092867422007991)] 
 
+16. **A Unified, Scalable Framework for Neural Population Decoding** 2023. ![](https://img.shields.io/badge/Invasive-g) ![](https://img.shields.io/badge/Utah_array-darkviolet) ![](https://img.shields.io/badge/Animal-orange) ![](https://img.shields.io/badge/Recording-red)
 
+    *Mehdi Azabou, Vinam Arora, Venkataramana Ganesh, Ximeng Mao, Santosh Nachimuthu, Michael J. Mendelson, Blake Richards, Matthew G. Perich, Guillaume Lajoie, Eva L. Dyer* [[pdf](https://arxiv.org/abs/2310.16046)]
 
 
 
